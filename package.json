@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/scandox/nodemailer-juice#readme",
   "dependencies": {
-    "juice": "^4.2.3"
+    "juice": "^6.0.0"
   },
   "devDependencies": {
     "chai": "~3.5.0"
